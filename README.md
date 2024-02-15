@@ -1,4 +1,6 @@
 # Transforming CTI into Mitre ATT&CK Flows
+This GitHub repository houses a cutting-edge project that leverages Retrieval Augmented Generation (RAG) to identify dependencies between Red Team attack techniques. The system utilizes MistralAI, in conjunction with LangChain, to perform advanced analysis and reasoning for the identification of unsecured assets in the realm of cyber threat intelligence.
+
 
 ## Overview
 
