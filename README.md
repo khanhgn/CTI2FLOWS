@@ -37,13 +37,11 @@ After securing approval, follow these steps to set up the notebook for Retrieval
 2. Sign in and navigate to API Keys on the right panel.
 3. Copy the PINECONE_API_KEY using the designated button.
 
-![Copying the Pinecone API key](pinecone-api-key-image)
 
 ### Pinecone Environment
 
 1. Copy the Pinecone environment (PINECONE_ENV) under the Environment header.
 
-![Copying the Pinecone environment parameter](pinecone-environment-image)
 
 ### Hugging Face Authorization Token
 
